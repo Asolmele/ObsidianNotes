@@ -1,0 +1,4 @@
+[[Functionnal]]
+[[Imperative]]
+[[Object]]
+[[Macro]]
